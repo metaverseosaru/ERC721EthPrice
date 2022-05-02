@@ -10,7 +10,8 @@ Using ..
 - OpenZeppelin 0.4.5
 
 Some things to taken into your considerations
-- No unit test written yet. This is only made for recreational purposes.
+- No unit test written yet. This is only made for recreational purposes. Please use the code on your own responsibility.
 - The contract currently uses the Chainlink Eth-USDT feed. It is a view function that we can call for free, but there is no gurantee that it will stay that way. 
+
 
 DM @metaverseosaru or @osaru_lab on Twitter for questions. 
